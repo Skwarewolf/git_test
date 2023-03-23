@@ -1,1 +1,3 @@
-# git_test fuck with it
+# git_test 
+My first github repo
+Hello Odin!
