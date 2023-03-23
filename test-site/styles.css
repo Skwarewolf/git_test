@@ -1,0 +1,19 @@
+h1 {
+    color: #B22222;
+    text-align: top center;
+    writing-mode: vertical-rl;
+    font-size: 555%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 222%;
+}
+
+.special {
+    color: #FFA07A;
+}
+
+html {
+background-color: #CD853F;
+}
